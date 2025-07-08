@@ -14,24 +14,4 @@ A Java-based application for managing different types of books in a store invent
   - Remove outdated books
   - Buy books
 
-## Project Structure
-
-online-book-store/
-├── .gitignore
-├── .idea/
-├── online-book-store.iml
-└── src/
-    ├── dto/
-    │   ├── EmailBookDto.java
-    │   └── ShippingBookDto.java
-    ├── model/
-    │   ├── Book.java
-    │   ├── Type.java
-    │   ├── EBook.java
-    │   ├── DemoBook.java
-    │   └── PaperBook.java
-    ├── Service/
-    │   ├── MailService.java
-    │   ├── ShippingService.java
-    │   └── InventoryService.java
-    └── Main.java
+-> All tests in the main method 
