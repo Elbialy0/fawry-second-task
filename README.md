@@ -30,4 +30,9 @@ A Java-based application for managing different types of books in a store invent
 
 ![image](https://github.com/user-attachments/assets/d99f0264-8bc8-460d-965c-68bfd8e9b7d6)
 
+### Try to buy after delection 
+
+![image](https://github.com/user-attachments/assets/223608c4-f325-48bb-beea-2718e3bce00e)
+
+
 
