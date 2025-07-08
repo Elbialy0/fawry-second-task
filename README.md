@@ -15,3 +15,6 @@ A Java-based application for managing different types of books in a store invent
   - Buy books
 
 -> All tests in the main method 
+###Test to buy Demo Book
+![image](https://github.com/user-attachments/assets/3997874a-1863-4cd2-afe2-25185761975b)
+
