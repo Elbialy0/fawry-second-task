@@ -1,8 +1,18 @@
-# Book Store 
-This System is a java-based application that manages different types of books(E-books, Paper books, and Demo books)  
-It provides functionality for adding books, remove outdated books and by books
+# Book Store
 
-## Project Structure 
+This system is a **Java-based application** that manages different types of books:
+- E-books
+- Paper books
+- Demo books
+
+It provides functionality to:
+- Add new books  
+- Remove outdated books  
+- Buy books  
+
+---
+
+## 📁 Project Structure
 
 online-book-store/
 ├── .gitignore
